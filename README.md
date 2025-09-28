@@ -1,2 +1,0 @@
-# PotPlayer_Ollama_RealTimeTranslate
-potplayer插件，用于翻译实时生成字幕为指定语言
